@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+cp /autograder/submission/hw3_1.py /autograder/source/hw3_1.py
+cd /autograder/source
+
+python3 run_tests.py
+
