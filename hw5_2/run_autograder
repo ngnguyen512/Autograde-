@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+cp /autograder/submission/hw5_2a.py /autograder/source/hw5_2a.py
+cd /autograder/source
+
+python3 run_tests.py
+
